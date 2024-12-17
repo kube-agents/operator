@@ -3,8 +3,6 @@ A kubernetes operator to define AI agent components.
 
 ## Supported Components
 - Models
-- Prompts
-- Agents
 
 ## Installation
 
